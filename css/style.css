@@ -1,0 +1,17 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.banner {
+    background-image: url(/image/5-blue.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 0;
+}
+
+.skill-padding{
+    padding: 40px 0;
+}
+
+.text-justify {
+    text-align: justify;
